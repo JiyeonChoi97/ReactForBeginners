@@ -13,7 +13,7 @@ React DOM : React element들을 가져와서 HTML로 변경
 <pre><script src="https://unpkg.com/@babel/standalone/babel.min.js"></script></pre>
 Babel : JSX 코드를 HTML 코드로 이해시켜서 실행시킴
 
-</br>
+<h1></h1>
 
 JSX
 - JavaScript 확장 문법
