@@ -1,4 +1,4 @@
-<h1>React</h1>
+<h1>ReactJS로 영화 웹 서비스 만들기</h1>
 
 <pre><script src="https://unpkg.com/react@17.0.2/umd/react.production.min.js"></script></pre>
 React js : element 생성하고 event listener를 더하는 것을 도와줌
