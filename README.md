@@ -1,17 +1,31 @@
 <h1>ReactJS로 영화 웹 서비스 만들기</h1>
 
-<pre><script src="https://unpkg.com/react@17.0.2/umd/react.production.min.js"></script></pre>
+```html
+<script src="https://unpkg.com/react@17.0.2/umd/react.production.min.js"></script>
+```
 React js : element 생성하고 event listener를 더하는 것을 도와줌
 
 </br>
 
-<pre><script src="https://unpkg.com/react-dom@17.0.2/umd/react-dom.production.min.js"></script></pre>
+```html
+<script src="https://unpkg.com/react-dom@17.0.2/umd/react-dom.production.min.js"></script>
+```
 React DOM : React element들을 가져와서 HTML로 변경 
 
 </br>
 
-<pre><script src="https://unpkg.com/@babel/standalone/babel.min.js"></script></pre>
+```html
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+```
 Babel : JSX 코드를 HTML 코드로 이해시켜서 실행시킴
+
+</br>
+
+```html
+<script src="https://unpkg.com/prop-types@15.7.2/prop-types.js"></script>
+```
+
+PropType : 어떤 타입의 props을 받고 있는지 체크
 
 <h1></h1>
 
