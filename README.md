@@ -82,5 +82,9 @@ npx create-react-app react-app-beginners
 ```
 
 ```html
+code react-app-beginners
+```
+
+```html
 npm i prop-types
 ```
