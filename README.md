@@ -73,3 +73,14 @@ useEffect
 - 두개의 argument를 가지는 function
 - 첫번째 argument는 한번만 또는 dependency 변화할때 실행시키고 싶은 코드
 - 두번쨰 argument(DependencyList)는 지정된 아이가 변화할때 코드 실행 -> 빈 array [] 일때는 최초 한번만 
+
+</br>
+<h2>create-react-app</h2>
+
+```html
+npx create-react-app react-app-beginners
+```
+
+```html
+npm i prop-types
+```
