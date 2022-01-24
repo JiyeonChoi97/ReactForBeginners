@@ -75,6 +75,18 @@ useEffect
 - 두번쨰 argument(DependencyList)는 지정된 아이가 변화할때 코드 실행 -> 빈 array [] 일때는 최초 한번만 
 
 </br>
+
+React Router
+- Switch
+    - Route(URL) 찾기
+    - 한번에 하나의 Route 렌더링 시킴
+- Link
+    - 브라우저의 새로고침이 없어도 유저를 다른 페이지로 이동시키는 컴포넌트
+    - ```<Link to=””> </Link>```
+
+
+</br>
+
 <h2>create-react-app</h2>
 
 ```html
@@ -87,4 +99,15 @@ code react-app-beginners
 
 ```html
 npm i prop-types
+```
+</br>
+
+<h2>React Router</h2>
+
+```html
+npm install react-router-dom
+```
+
+```html
+npm i react-router-dom@5.3.0
 ```
