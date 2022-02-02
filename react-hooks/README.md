@@ -11,6 +11,9 @@
 1. useTitle
 
 2. useClick
+- reference
+<br/>- component의 어떤 부분을 선택할 수 있게 하는 방법
+<br/>- document.getElementByID() 와 동일
 
 3. useConfirm & usePreventLeave
 
